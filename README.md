@@ -123,7 +123,7 @@ This project demonstrates understanding of:
 ### Abhinav Verma<br>
 ### Vadde Kishore<br>
 <br>
-Focused on building production-ready AI systems and mastering deep learning through projects.
+Focused on building production-ready AI systems and mastering Deep Learning through projects.
 
 ---
 
