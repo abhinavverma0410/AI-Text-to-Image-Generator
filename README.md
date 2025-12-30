@@ -115,8 +115,8 @@ This project demonstrates understanding of:
 ---
 
 ## 👤 Author
-Abhinav Verma<br>
-Vadde Kishore<br>
+### Abhinav Verma<br>
+### Vadde Kishore<br>
 <br>
 Focused on building production-ready AI systems and mastering deep learning through projects.
 
