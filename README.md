@@ -63,8 +63,8 @@ The project focuses on learning deep learning by building, while also producing 
 ## ⚙️ Setup Instructions
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/ai-text-to-image-generator-clean.git
-cd ai-text-to-image-generator-clean
+git clone https://github.com/<your-username>/AI-Text-to-Image-Generator.git
+cd AI-Text-to-Image-Generator
 ```
 
 ### 2️⃣ Configure Environment Variables
