@@ -23,6 +23,11 @@ The project focuses on learning deep learning by building, while also producing 
 
 ---
 
+## 🖥️ Application UI Preview
+![AI Text to Image Generator UI](assets/AITextToImageGenerator.png)
+
+---
+
 ## 🧠 Tech Stack
 ### AI / Backend
 - Python
