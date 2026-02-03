@@ -1,0 +1,9 @@
+torch
+diffusers
+transformers
+accelerate
+safetensors
+huggingface_hub
+dash
+python-dotenv
+Pillow
