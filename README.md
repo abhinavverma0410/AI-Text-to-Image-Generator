@@ -55,6 +55,7 @@ The project focuses on learning deep learning by building, while also producing 
 ├── .env.example                      # Your Huggingface token saved here
 ├── AI_Text_to_Image_Generator.ipynb  # Notebook version (experimentation)
 ├── app.py                            # Main Dash application
+├── requirements.txt
 └── README.md
 ```
 
